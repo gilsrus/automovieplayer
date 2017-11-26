@@ -19,6 +19,7 @@ This version is only for one movie file.
 - Current frames / Total Frames
 - Jump frame
 (Select some frames and push 'Frame Jump')
+(You can input frames by Drag mouse or Double click)
 
 ### 2. player
 - Load Movie...
@@ -35,6 +36,7 @@ Default image is 1920 x 1080.
 
 - User Resolution
 You can set Witdh and Height with Original Aspect ratio.
+(You can input resolution by Drag mouse or Double click)
 
 - Movie resolution Mode
 Fullscreen is not allow Original Aspect Ratio.
