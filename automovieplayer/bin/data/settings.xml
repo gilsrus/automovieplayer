@@ -1,0 +1,12 @@
+<settings>
+    <repeat>1</repeat>
+    <shuffle>0</shuffle>
+    <pjimage>0</pjimage>
+    <resmode>1</resmode>
+    <drawMode>1</drawMode>
+    <drawvMode>1</drawvMode>
+    <showgui>0</showgui>
+    <moviepath>/Users/gilsrus/Documents/of_v0.9.8_osx_release/apps/myApps/automovieplayer/bin/data/movies/fingers.mov</moviepath>
+    <resx>1920</resx>
+    <resy>1080</resy>
+</settings>
